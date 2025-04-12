@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Legend's Tech - Mods & Repairs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    .image-banner {
+      margin: 20px;
+      border: 5px solid #ccc; /* Thicker border */
+      background-color: #eee;
+    }
+    .image-banner img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+    section {
+      background-color: #eee;
+      padding: 20px;
+      margin: 20px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+    }
+    h2 {
+      color: #444;
+    }
+    .services, .price-list {
+      max-width: 700px;
+      margin: auto;
+      text-align: left;
+    }
+    .services li, .price-list li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Mods & Repairs Made Simple</h1>
+  <p>Hard Mods, Soft Mods, and Repairs</p>
+</header>
+
+<div class="image-banner">
+  <img src="https://legendstech.neocities.org/pic/Legends%20stock%20photo%204.png" alt="Legend's Tech Banner">
+</div>
+
+<section>
+  <h2>What I Offer</h2>
+  <ul class="services">
+    <li>🔹 <strong>Buy a Pre-Modded Unit:</strong> Choose hard mod or soft mod. Pay online. I ship the device to you.</li>
+    <li>🔹 <strong>Send in Your Own Unit:</strong> Mail or meet up locally. I mod your device and return it to you.</li>
+    <li>🔹 <strong>Repair Services:</strong> Screen replacements, battery fixes, hardware repairs, etc. Quick turnaround.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Price List</h2>
+  <ul class="price-list">
+    <li>Hard Mod: $XX</li>
+    <li>Soft Mod: $XX</li>
+    <li>Basic Repair: Starting at $XX</li>
+    <li>Advanced Repair: Quote after inspection</li>
+    <li>Shipping Fee (if needed): $XX</li>
+  </ul>
+</section>
+
+<section>
+  <h2>How to Order</h2>
+  <p>Message me on Facebook, Email, or Text.</p>
+  <p>Tell me what you need (buy, mod, repair), confirm price, pay with PayPal/Cash App/Venmo — I get to work!</p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>📱 Facebook: [Your Facebook Link]</p>
+  <p>✉️ Email: [Your Email Address]</p>
+  <p>📞 Phone: [Optional]</p>
+</section>
+
+</body>
+</html>
+
+
